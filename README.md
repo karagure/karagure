@@ -71,8 +71,9 @@ work meets actual atoms.
 
 ### ── STATS ────────────────────────────────────────────────────────
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karagure&theme=dracula)](https://github.com/karagure)
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karagure&theme=dracula)](https://github.com/karagure)
+![Followers](https://img.shields.io/github/followers/karagure?style=for-the-badge&color=8839ef)
+![Stars](https://img.shields.io/github/stars/karagure?style=for-the-badge&color=df8e1d)
+![rvkit downloads](https://img.shields.io/github/downloads/karagure/rvkit/total?style=for-the-badge&color=40a02b&label=rvkit%20downloads)
 
 
 ### ── CONTACT ──────────────────────────────────────────────────────
