@@ -17,7 +17,7 @@ and embedded engineering. I build CLIs, frameworks, and tools that make
 bare-metal development less painful — and run a maker workshop on the side.
 
 
-### ── MAIN PROJECT ─────────────────────────────────────────────────
+### ── MAIN PROJECT ───────────────────────────────────────────
 
 #### [rvkit](https://github.com/karagure/rvkit) — *Bare metal Zig, without the bare metal pain*
 
