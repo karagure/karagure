@@ -71,8 +71,8 @@ work meets actual atoms.
 
 ### ── STATS ────────────────────────────────────────────────────────
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=karagure&show_icons=true&theme=radium)](https://github.com/karagure)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karagure&layout=compact&theme=radium)](https://github.com/karagure)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=karagure&show_icons=true&theme=dracula)](https://github.com/karagure)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karagure&layout=compact&theme=dracula)](https://github.com/karagure)
 
 
 ### ── CONTACT ──────────────────────────────────────────────────────
